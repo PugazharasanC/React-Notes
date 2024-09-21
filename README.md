@@ -72,20 +72,19 @@ Happy coding! 🌈✨
 
 ---
 
+## 🚀 Start Your Journey
+
+[![Start Button](https://img.shields.io/badge/Start%20Learning%20React-007ACC?style=for-the-badge&logo=react)](./react-basics/README.md)
+
+
+---
+
 ## 🌟 Conclusion
 Congratulations on completing the React Learning Repository! 🎉 Whether you are just starting or refining your React skills, I hope this journey has been informative and enjoyable.
 
 The world of React is vast and constantly evolving. Keep exploring, practicing, and embracing the joy of coding. Feel free to contribute, share your insights, and engage with the vibrant React community.
 
 Happy coding, and may your React adventures be filled with creativity and success! 🚀💻✨
-
-
----
-
-## 🚀 Start Your Journey
-
-[![Start Button](https://img.shields.io/badge/Start%20Learning%20React-007ACC?style=for-the-badge&logo=react)](./react-basics/README.md)
-
 
 ---
 
