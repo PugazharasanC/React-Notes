@@ -4,9 +4,9 @@
 
 Once upon a time in the land of web development, two friendly rivals existed: **Libraries** and **Frameworks**. They each had their strengths, and developers often found themselves in spirited debates over which was better.
 
-**Developer 1:** "I love using libraries! They give me the freedom to choose how I want to structure my code."
+**Mia:** "I love using libraries! They give me the freedom to choose how I want to structure my code."
 
-**Developer 2:** "But frameworks provide a solid structure! They guide you along the way, making your projects more organized."
+**Leo:** "But frameworks provide a solid structure! They guide you along the way, making your projects more organized."
 
 ## What is a Library?
 
@@ -38,9 +38,9 @@ A **framework**, on the other hand, is more like a blueprint 🏗️. It provide
 
 Understanding the difference between libraries and frameworks is crucial for any developer. Depending on your project’s needs, you might choose one over the other.
 
-**Developer 1:** "So, should I always choose a library?"
+**Mia:** "So, should I always choose a library?"
 
-**Developer 2:** "Not necessarily! It depends on your project's size and complexity. Sometimes, a framework can save you time and keep you organized."
+**Leo:** "Not necessarily! It depends on your project's size and complexity. Sometimes, a framework can save you time and keep you organized."
 
 ## Conclusion
 

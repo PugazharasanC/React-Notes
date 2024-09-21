@@ -10,6 +10,7 @@ Today, we're diving into the world of lists and keys in React. If you’ve ever 
 In React, lists are simply arrays of elements that we want to display. Instead of writing out each element manually, we can use JavaScript’s array methods to create our lists dynamically.
 
 **Mia:** "So, if I have a list of my favorite books, I can just loop through that list and display each one?"
+
 **Leo:** "Exactly! It’s efficient and keeps your code neat!" 📚
 
 # Rendering Lists in React
@@ -31,6 +32,7 @@ const BookList = () => {
 ```
 
 **Mia:** "That looks simple! But what’s this `key` thing you mentioned?"
+
 **Leo:** "Great question! Let’s talk about keys next!" 🔑
 
 # Why Do We Need Keys? 🗝️
@@ -42,6 +44,7 @@ Keys are special props that help React identify which items have changed, been a
 2. **Stability:** Keys help maintain the component's identity. If the order of items changes, React can keep track of which item corresponds to which component, preventing unexpected behavior.
 
 **Mia:** "So, it’s like giving each item a unique ID?"
+
 **Leo:** "Exactly! It helps React do its job more efficiently!" ⚡
 
 # How to Use Keys Properly
@@ -67,6 +70,7 @@ const BookList = () => {
 ```
 
 **Mia:** "Got it! Always use a unique key to avoid issues!"
+
 **Leo:** "Right! This makes your application more robust!" 🌟
 
 ---

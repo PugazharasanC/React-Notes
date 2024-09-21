@@ -10,6 +10,7 @@ Now that you’re getting the hang of embedding expressions, let’s explore one
 Conditional rendering means showing or hiding components based on specific conditions. For example, if you want to display a greeting message only when a user is logged in, you would use conditional rendering to determine whether to show that message.
 
 **Mia:** "So, if it’s sunny, I can show a sun icon, and if it’s rainy, I can show a rain cloud?"
+
 **Leo:** "Exactly! It makes your app interactive and responsive to user needs!" ☂️
 
 # Why Do We Need Conditional Rendering? 🌟
@@ -61,6 +62,7 @@ Conditional rendering means showing or hiding components based on specific condi
    ```
 
 **Mia:** "These methods make it easy to handle different situations!"
+
 **Leo:** "Absolutely! Your UI can react to changes just like you do!" 🎉
 
 ---

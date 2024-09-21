@@ -10,6 +10,7 @@ Now that you understand the basics of JSX, let’s dive into one of its coolest 
 In JSX, you can embed any JavaScript expression inside curly braces `{}`. This means you can easily display variables, perform calculations, or even call functions right within your markup!
 
 **Mia:** "So, I can mix JavaScript with HTML?"
+
 **Leo:** "Absolutely! It’s like having your cake and eating it too!" 🍰
 
 ---
@@ -39,6 +40,7 @@ In JSX, you can embed any JavaScript expression inside curly braces `{}`. This m
    ```
 
 **Mia:** "This makes it so easy to show different information!"
+
 **Leo:** "Right? It adds a whole new level of interactivity!" 🎉
 
 ---

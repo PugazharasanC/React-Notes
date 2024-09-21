@@ -1,4 +1,3 @@
-
 # Hooks 🔄
 
 **Welcome to the world of Hooks!** 🌟
@@ -10,6 +9,7 @@ If you thought React was cool before, wait until you dive into Hooks! They allow
 Hooks are special functions that let you "hook into" React features from functional components. They were introduced in React 16.8, and since then, they’ve been a game changer for developers.
 
 **Mia:** "Hey Leo, what’s the big deal with Hooks?"
+
 **Leo:** "Good question, Mia! Hooks simplify how we manage state and lifecycle features in functional components. They make your code cleaner and easier to read!" 📖
 
 # Benefits of Using Hooks
@@ -48,6 +48,9 @@ Hooks are special functions that let you "hook into" React features from functio
 
 - **[useCallback: Preventing Unnecessary Re-renders](./useCallback.md)** 🔁
   Learn how to avoid unnecessary re-renders with `useCallback`.
+
+- **[Custom Hooks: Reusable Logic in React](./custom-hooks.md)** 🔁
+  Discover how to create custom Hooks to encapsulate and share logic across your components effectively.
 
 ---
 

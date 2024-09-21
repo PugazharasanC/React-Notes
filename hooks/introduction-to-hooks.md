@@ -10,6 +10,7 @@ Hooks have changed the way we build applications in React, making it easier and 
 Hooks are special functions that allow you to use state and other React features without needing to write a class. They were introduced in React 16.8 and have quickly become a favorite among developers.
 
 **Mia:** "Hey Leo, what’s the purpose of Hooks?"
+
 **Leo:** "Great question, Mia! Hooks simplify the way we work with state and lifecycle methods in functional components. They make our code cleaner and more maintainable!" 🧹
 
 # Why Use Hooks?
@@ -31,6 +32,7 @@ Hooks follow two main rules:
 2. **Only Call Hooks from React Functions:** You can call Hooks from functional components or custom Hooks. This keeps your code clean and predictable.
 
 **Mia:** "So, it’s all about keeping things organized?"
+
 **Leo:** "Exactly! Following these rules helps maintain a consistent structure in your code." 📏
 
 # Key Hooks You’ll Use

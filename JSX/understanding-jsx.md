@@ -10,6 +10,7 @@ Imagine you're an artist, and your canvas is a mix of JavaScript and HTML. That'
 Think of JSX as a magical bridge between JavaScript and HTML. It stands for JavaScript XML, allowing you to create React elements in a way that feels like writing HTML.
 
 **Mia:** "So, it’s like speaking both languages at once?"
+
 **Leo:** "Exactly! You can build dynamic user interfaces with ease." 🌟
 
 ---
@@ -30,8 +31,9 @@ Here are some reasons why JSX is a game-changer:
    const Greeting = () => <h1>Hello, {name}!</h1>;
    ```
 
-   **Mia:** "Wow, that’s cool! I can change the name anytime!"
-   **Leo:** "Exactly! It’s dynamic magic!" 🎩
+**Mia:** "Wow, that’s cool! I can change the name anytime!"
+
+**Leo:** "Exactly! It’s dynamic magic!" 🎩
 
 3. **Component-Based Structure:**
    JSX encourages creating reusable components. It’s like building with LEGO—just snap them together!

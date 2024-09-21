@@ -26,47 +26,49 @@ Happy coding! 🌈✨
 ## 📚 React Learning Index
 ### Table of Contents
 - **[React Basics](./react-basics/README.md)**
-  - [Introduction to React](./react-basics/introduction-to-react.md)
-  - [Setting Up a React Project Using Vite](./react-basics/setting-up-react-vite.md)
-  - [Library vs Framework](./react-basics/additional/library-vs-framework.md) 🛠️
-  - [Understanding React Folder Skeleton](./react-basics/additional/react-folder-skeleton.md) 📁
-  - [What is a Single Page Application (SPA)?](./react-basics/additional/single-page-application.md) 🌐
+  - **[Introduction to React](./react-basics/introduction-to-react.md)**
+  - **[Setting Up a React Project Using Vite](./react-basics/setting-up-react-vite.md)**
+  - **[Library vs Framework](./react-basics/additional/library-vs-framework.md)** 🛠️
+  - **[Understanding React Folder Skeleton](./react-basics/additional/react-folder-skeleton.md)** 📁
+  - **[What is a Single Page Application (SPA)?](./react-basics/additional/single-page-application.md)** 🌐
   - **[Components: Building Blocks of UIs](./react-basics/components/README.md)** 🧩
-    - [Functional Components vs. Class Components](./react-basics/components/functional-vs-class-components.md)
-    - [Props: Passing Data with Style](./react-basics/components/props.md) 📦
-    - [State: Managing Component Data](./react-basics/components/state.md) 📊
-    - [React Forms: Handling User Input](./react-basics/components/react-forms.md) 📝
-    - [Handling Events in React](./react-basics/components/handling-events.md) 🎉
-    - [Understanding Prop Drilling & Its Disadvantages](./react-basics/components/prop-drilling.md) 🚦
-    - [Keys in Components While Rendering Arrays](<./react-basics/components/REMOVED - keys-in-components.md>) 🔑
+    - **[Functional Components vs. Class Components](./react-basics/components/functional-vs-class-components.md)**
+    - **[Props: Passing Data with Style](./react-basics/components/props.md)** 📦
+    - **[State: Managing Component Data](./react-basics/components/state.md)** 📊
+    - **[React Forms: Handling User Input](./react-basics/components/react-forms.md)** 📝
+    - **[Handling Events in React](./react-basics/components/handling-events.md)** 🎉
+    - **[Understanding Prop Drilling & Its Disadvantages](./react-basics/components/prop-drilling.md)** 🚦
+    - **[Keys in Components While Rendering Arrays](<./react-basics/components/REMOVED - keys-in-components.md>)** 🔑
 
 - **[JSX: Building Dynamic UIs](./JSX/README.md)**
-  - [Understanding JSX: HTML in JavaScript](./JSX/understanding-jsx.md) 📝
-  - [Embedding Expressions: Dynamic Content](./JSX/embedding-expressions.md) 🔄
-  - [Conditional Rendering: Displaying Based on Conditions](./JSX/conditional-rendering.md) 🚦
-  - [Lists and Keys: Rendering Collections Efficiently](./JSX/lists-and-keys.md) 🔑
+  - **[Understanding JSX: HTML in JavaScript](./JSX/understanding-jsx.md)** 📝
+  - **[Embedding Expressions: Dynamic Content](./JSX/embedding-expressions.md)** 🔄
+  - **[Conditional Rendering: Displaying Based on Conditions](./JSX/conditional-rendering.md)** 🚦
+  - **[Lists and Keys: Rendering Collections Efficiently](./JSX/lists-and-keys.md)** 🔑
 
 - **[Hooks](./hooks/README.md)**
-  - [Introduction to Hooks: Revolutionizing React](./hooks/introduction-to-hooks.md) 🔄
-  - [useState: Managing State in Functional Components](./hooks/useState.md) 📈
-  - [useEffect: Handling Side Effects](./hooks/useEffect.md) 🌊
-    - [Fetching Data](./hooks/fetching-data.md)
-    - [Cleanup Operations](./hooks/cleanup-operations.md)
-  - [useRef: Accessing DOM Elements and Keeping Mutable References](./hooks/useRef.md) 🔗
-  - [useReducer: Managing Complex State Logic](./hooks/useReducer.md) 🛠️
-  - [useMemo: Optimizing Performance with Memoization](./hooks/useMemo.md) ⚡
-  - [useCallback: Preventing Unnecessary Re-renders](./hooks/useCallback.md) 🔁
+  - **[Introduction to Hooks: Revolutionizing React](./hooks/introduction-to-hooks.md)** 🔄
+  - **[useState: Managing State in Functional Components](./hooks/useState.md)** 📈
+  - **[useEffect: Handling Side Effects](./hooks/useEffect.md)** 🌊
+    - **[Fetching Data](./hooks/fetching-data.md)**
+    - **[Cleanup Operations](./hooks/cleanup-operations.md)**
+  - **[useRef: Accessing DOM Elements and Keeping Mutable References](./hooks/useRef.md)** 🔗
+  - **[useReducer: Managing Complex State Logic](./hooks/useReducer.md)** 🛠️
+  - **[useMemo: Optimizing Performance with Memoization](./hooks/useMemo.md)** ⚡
+  - **[useCallback: Preventing Unnecessary Re-renders](./hooks/useCallback.md)** 🔁
 
 - **[Context API](./context-api/README.md)**
-  - [Understanding Context: Global State Management](./context-api/understanding-context.md) 🌍
-  - [Creating Context: Building Your Context Provider](./context-api/creating-context.md) 🏗️
-  - [Using Context: Consuming Context in Components](./context-api/using-context.md) 🛠️
+  - **[Understanding Context: Global State Management](./context-api/understanding-context.md)** 🌍
+  - **[Creating Context: Building Your Context Provider](./context-api/creating-context.md)** 🏗️
+  - **[Using Context: Consuming Context in Components](./context-api/using-context.md)** 🛠️
 
 - **[Routing](./routing/README.md)**
-  - [React Router: Navigating Your App](./routing/react-router.md) 🌐
-  - [Setting Up Routes: Defining Paths](./routing/setting-up-routes.md) 🛤️
-  - [Nested Routes: Structuring Your Application](./routing/nested-routes.md) 📂
-  - [Route Parameters: Dynamic Routing](./routing/route-parameters.md) 🎭
+  - **[React Router: Navigating Your App](./routing/react-router.md)** 🌐
+  - **[Setting Up Routes: Defining Paths](./routing/setting-up-routes.md)** 🛤️
+  - **[Link and NavLink](./routing/link-navlink.md)** 🛤️
+  - **[Navigate and useNavigate](./routing/navigate-useNavigate.md)** 🛤️
+  - **[Nested Routes: Structuring Your Application](./routing/nested-routes.md)** 📂
+  - **[Route Parameters: Dynamic Routing](./routing/route-parameters.md)** 🎭
 
 ---
 

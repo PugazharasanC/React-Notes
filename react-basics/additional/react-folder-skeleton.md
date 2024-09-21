@@ -4,9 +4,9 @@
 
 Imagine you’re moving into a new house. 🏡 Before you start unpacking your boxes, you want to set up a nice layout. You need rooms for different activities—like a kitchen for cooking and a living room for relaxing. In the same way, when you create a React project, the folder structure helps you keep everything organized.
 
-**Developer A:** "Why does the folder structure even matter?"
+**Mia:** "Why does the folder structure even matter?"
 
-**Developer B:** "Think of it like organizing your closet! If everything is scattered, you’ll spend ages looking for your favorite shirt."
+**Leo:** "Think of it like organizing your closet! If everything is scattered, you’ll spend ages looking for your favorite shirt."
 
 ## The Standard Folder Structure
 
@@ -61,9 +61,9 @@ Let’s break this down:
 
 Having a clear folder structure makes it easier for you and your team to navigate the project. It helps in maintaining the code and makes collaboration smoother.
 
-**Developer A:** "But what if I want to organize my project differently?"
+**Mia:** "But what if I want to organize my project differently?"
 
-**Developer B:** "That’s totally fine! Just remember to keep it logical and consistent so everyone can find their way around."
+**Leo:** "That’s totally fine! Just remember to keep it logical and consistent so everyone can find their way around."
 
 ## Conclusion
 

@@ -8,9 +8,9 @@ In the world of web development, a SPA loads a single HTML page and dynamically 
 
 ## How SPAs Work
 
-**Developer A:** "So, how does a SPA actually work?"
+**Mia:** "So, how does a SPA actually work?"
 
-**Developer B:** "Great question! When you first load a SPA, it fetches all the necessary resources at once. After that, it uses JavaScript to update the content without requiring full page reloads."
+**Leo:** "Great question! When you first load a SPA, it fetches all the necessary resources at once. After that, it uses JavaScript to update the content without requiring full page reloads."
 
 1. **Initial Load**: When you first visit a SPA, it loads all the HTML, CSS, and JavaScript files in one go. This might take a little longer at the start, but it pays off later! 💡
 
@@ -38,9 +38,9 @@ In the world of web development, a SPA loads a single HTML page and dynamically 
 
 In summary, a Single Page Application (SPA) is a modern approach to building web applications that provides a seamless user experience. By loading everything at once and updating dynamically, SPAs make browsing smooth and fast.
 
-**Developer A:** "So, should I build my next project as a SPA?"
+**Mia:** "So, should I build my next project as a SPA?"
 
-**Developer B:** "If you want a dynamic and responsive app, definitely! Just be mindful of the challenges and plan accordingly."
+**Leo:** "If you want a dynamic and responsive app, definitely! Just be mindful of the challenges and plan accordingly."
 
 ---
 

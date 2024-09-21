@@ -5,9 +5,9 @@ Welcome to the showdown between two titans of React: Functional Components and C
 
 ## What’s the Difference? 🤔
 
-**Samantha:** "Hey, James! I keep hearing about Functional and Class Components. What’s the difference?"
+**Mia:** "Hey, Leo! I keep hearing about Functional and Class Components. What’s the difference?"
 
-**James:** "Great question! Think of it this way: Functional Components are like quick snacks—light and easy to digest. Class Components are like a full-course meal—more complex but hearty!" 🍽️
+**Leo:** "Great question! Think of it this way: Functional Components are like quick snacks—light and easy to digest. Class Components are like a full-course meal—more complex but hearty!" 🍽️
 
 ## Functional Components 🍕
 - **Simplicity**: These are JavaScript functions that return JSX. They’re easier to write and read.
@@ -37,9 +37,9 @@ class Greeting extends React.Component {
 
 # When to Use Each? 🤷‍♀️
 
-**Samantha:** "So, when should I choose one over the other?"
+**Mia:** "So, when should I choose one over the other?"
 
-**James:** "If you’re building something simple or using lots of hooks, go for Functional Components! They’re powerful and can handle everything a Class Component can do, including complex state management with `useReducer`. While Class Components can be handy if you absolutely need lifecycle methods, you'll often find that with hooks, you won’t miss them!" 🎯
+**Leo:** "If you’re building something simple or using lots of hooks, go for Functional Components! They’re powerful and can handle everything a Class Component can do, including complex state management with `useReducer`. While Class Components can be handy if you absolutely need lifecycle methods, you'll often find that with hooks, you won’t miss them!" 🎯
 
 ## Fun Fact! 🎉
 
