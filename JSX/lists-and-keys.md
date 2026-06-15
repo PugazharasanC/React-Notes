@@ -82,4 +82,4 @@ Did you know that using keys correctly can drastically improve your app's perfor
 
 # Navigation
 
-**[Previous: Conditional Rendering: Displaying Based on Conditions](./conditional-rendering.md)** | **[Next: Hooks 🔄](./README.md)**
+**[Previous: Conditional Rendering: Displaying Based on Conditions](./conditional-rendering.md)** | **[Next: Hooks 🔄](../hooks/README.md)**
